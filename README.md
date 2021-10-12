@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @kolodiar
-- 👀 I’m Java/Kotlin/Scala developer with bachelors degree in Software Engineering.
+- 👀 I’m Java/Kotlin/Scala developer.
+- 🎓 I have a bachelors degree in Software Engineering. Currently a masters student.
 - 📫 How to reach me: yaroslav.kolodka@gmail.com
 
 <!---
